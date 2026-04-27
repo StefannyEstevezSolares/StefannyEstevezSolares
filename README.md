@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-# 👩‍💻 Stefanny Lisseht Estevez Solares
+# 👩‍💻 Stefanny Lisseth Estevez Solares
 
 ## 🌟 Sobre mí
 Soy Stefanny Lisseht Estevez Solares.  
@@ -16,7 +16,7 @@ Anteriormente estudié **Pedagogía** y fui catedrática de inglés en la **Univ
 - 🧑‍💻 GitHub  
 - 📊 Actualmente aprendiendo Scrum  
 
-![Tecnologías](https://cdn-icons-png.flaticon.com/512/2721/2721297.png)
+![Tecnologías]([https://cdn-icons-png.flaticon.com/512/2721/2721297.png](https://i.blogs.es/82a331/python/840_560.jpeg])
 
 ---
 
